@@ -30,6 +30,7 @@ I love digging into how stuff works and I stay curious about new tools and ideas
 
 
 
+<p align="center">
 
-
-<img width="700" height="1455" alt="Cowsaytruth" src="https://github.com/user-attachments/assets/6cb75d93-260f-46b9-b721-16bffc744a46" />
+<img width="500" height="1455" alt="Cowsaytruth" src="https://github.com/user-attachments/assets/6cb75d93-260f-46b9-b721-16bffc744a46" />
+</p>
